@@ -1,11 +1,11 @@
 Site settings
-title: BY Blog
-SEOTitle: ponytrail的博客 | BY Blog
+title: My Blog
+SEOTitle: ponytrail的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: donow365@outlook.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, ponytrail的博客, ponytrail, 小马足迹"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: " ponytrail的博客, ponytrail, 小马足迹"
+url: "http://ponytrail.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ponytrail/ponytrail.github.io.git" # you code repository
 
